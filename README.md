@@ -11,7 +11,7 @@ For this, the script uses the Rest [Ekara](https://api.ekara.ip-label.net/) API.
 
 ## Screens
 
-![screen](screenshot/change user settings.png)
+![screen](screenshot/change_user_settings.png)
 
 
 ## Prerequisites
